@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pospi\\Desktop\\arek\\C#\\Library\\Library\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7EC084B-688B-48A4-9569-84D5A15438E5}|Library.csproj|c:\\users\\pospi\\desktop\\arek\\c#\\library\\library\\files\\resources\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7EC084B-688B-48A4-9569-84D5A15438E5}|Library.csproj|solutionrelative:files\\resources\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7EC084B-688B-48A4-9569-84D5A15438E5}|Library.csproj|c:\\users\\pospi\\desktop\\arek\\c#\\library\\library\\files\\resources\\borrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7EC084B-688B-48A4-9569-84D5A15438E5}|Library.csproj|solutionrelative:files\\resources\\borrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\pospi\\Desktop\\arek\\C#\\Library\\Library\\files\\resources\\Book.cs",
+              "RelativeDocumentMoniker": "files\\resources\\Book.cs",
+              "ToolTip": "C:\\Users\\pospi\\Desktop\\arek\\C#\\Library\\Library\\files\\resources\\Book.cs",
+              "RelativeToolTip": "files\\resources\\Book.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAADwv0UAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T08:26:41.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Borrow.cs",
+              "DocumentMoniker": "C:\\Users\\pospi\\Desktop\\arek\\C#\\Library\\Library\\files\\resources\\Borrow.cs",
+              "RelativeDocumentMoniker": "files\\resources\\Borrow.cs",
+              "ToolTip": "C:\\Users\\pospi\\Desktop\\arek\\C#\\Library\\Library\\files\\resources\\Borrow.cs",
+              "RelativeToolTip": "files\\resources\\Borrow.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAIwDcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T11:49:59.781Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
